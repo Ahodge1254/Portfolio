@@ -1,3 +1,13 @@
 #nav-content{
     margin-left: 75%;
 }
+
+#navigation{
+background-color: white;
+}
+
+.sticky{
+  position: fixed;
+  top: 0;
+  width: 100%;
+}

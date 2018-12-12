@@ -1,0 +1,11 @@
+#contact{
+    margin-left: 1vw;
+    height: 65vh;
+    width: 13vw;
+    background-color: grey;
+    padding-left: 1vw;
+    border-radius: 5pt;
+    position: fixed;
+    bottom: 1pt;
+    left: 1pt;
+}

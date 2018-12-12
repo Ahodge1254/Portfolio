@@ -7,3 +7,10 @@
 @import "contact.css";
 @import "footer.css";
 
+.aboutMe{
+    text-align: center
+}
+
+.projects{
+    text-align: center
+}

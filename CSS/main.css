@@ -34,5 +34,6 @@ float: left;
 
 .quotes{
     float: right 100px;
-    color: white
+    color: white;
+    z-index: -1;
 }

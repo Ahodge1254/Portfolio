@@ -2,10 +2,10 @@
     margin-left: 1vw;
     height: 65vh;
     width: 13vw;
-    background-color: grey;
+    border: dotted;
     padding-left: 1vw;
     border-radius: 5pt;
-    position: fixed;
-    bottom: 1pt;
-    left: 1pt;
+    position: static;
+    background-color: #5e5c5cd0;
+    border-color: red;
 }

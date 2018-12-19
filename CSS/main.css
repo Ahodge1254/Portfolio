@@ -14,3 +14,25 @@
 .projects{
     text-align: center
 }
+
+
+p{
+    text-align: center
+}
+
+nav {
+    z-index: 1;
+}
+
+footer{
+    z-index: -1;
+}
+
+#contact{
+float: left;
+}
+
+.quotes{
+    float: right 100px;
+    color: white
+}
